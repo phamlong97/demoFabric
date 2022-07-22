@@ -1,6 +1,6 @@
 {
   "createTide": [
-    { "id": 1, "legacy_ref_no": "0113200001020279", "name_tide": "", "ac_no": "1000899443", "amount":1000000000, "tenure": 6, "init_tenure": "M", "base_rate": 5.7, "BOOK_DT": "28/08/2022", "LAST_WITH_DT": "28/02/2023"}
+    { "id": 1, "legacy_ref_no": "0113200001020279", "name_tide": "", "ac_no": "1000899443", "amount":1000000000, "tenure": 6, "init_tenure": "M", "base_rate": 5.7, "book_dt": "28/08/2022", "last_with_dt": "28/02/2023"}
   ],
   "getListTenure": [
     { "id": 1, "tenure": 1, "init_tenure": "M", "base_rate": 3.8 },
