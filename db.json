@@ -1,14 +1,23 @@
 {
-  "posts": [
+  "createTide": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "getListTenure": [
+    { "id": 1, "tenure": 1, "init_tenure": "M", "base_rate": 3.8 },
+    { "id": 2, "tenure": 3, "init_tenure": "M", "base_rate": 4.0 },
+    { "id": 3, "tenure": 6, "init_tenure": "M", "base_rate": 5.7 },
+    { "id": 4, "tenure": 9, "init_tenure": "M", "base_rate": 5.85 },
+    { "id": 5, "tenure": 12, "init_tenure": "M", "base_rate": 6.4 },
+    { "id": 6, "tenure": 13, "init_tenure": "M", "base_rate": 6.5 },
+    { "id": 7, "tenure": 18, "init_tenure": "M", "base_rate": 6.6 },
+    { "id": 8, "tenure": 2, "init_tenure": "Y", "base_rate": 6.6 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "getListAcc": [
+    {"id" : 1, "ac_no": "1000899443", "amount":1000000000},
+    {"id" : 2, "ac_no": "1000899922", "amount":500000000},
+    {"id" : 3, "ac_no": "1000899922", "amount":700000000},
+    {"id" : 4, "ac_no": "1000899964", "amount":600000000},
+  ]
 }
