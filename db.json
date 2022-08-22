@@ -205,34 +205,6 @@
       "tenure": "10.0",
       "unitTenure": "M",
       "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "840",
-      "tenure": "10.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "840",
-      "tenure": "11.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "978",
-      "tenure": "11.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "704",
-      "tenure": "11.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
     }
   ],
   "getListAcc": [
