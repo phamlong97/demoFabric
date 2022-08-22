@@ -5,14 +5,14 @@
   "getListTenure": [
     {
       "prodCD": "438",
-      "ccyCD": "978",
+      "ccyCD": "704",
       "tenure": "1.0",
       "unitTenure": "M",
       "finalRate": "3.8"
     },
     {
       "prodCD": "438",
-      "ccyCD": "840",
+      "ccyCD": "704",
       "tenure": "3.0",
       "unitTenure": "M",
       "finalRate": "4.0"
@@ -33,28 +33,28 @@
     },
     {
       "prodCD": "438",
-      "ccyCD": "840",
+      "ccyCD": "704",
       "tenure": "12.0",
       "unitTenure": "M",
       "finalRate": "6.4"
     },
     {
       "prodCD": "438",
-      "ccyCD": "978",
+      "ccyCD": "704",
       "tenure": "13.0",
       "unitTenure": "M",
       "finalRate": "6.5"
     },
     {
       "prodCD": "438",
-      "ccyCD": "978",
+      "ccyCD": "704",
       "tenure": "3.0",
       "unitTenure": "M",
       "finalRate": "6.0"
     },
     {
       "prodCD": "438",
-      "ccyCD": "840",
+      "ccyCD": "704",
       "tenure": "18.0",
       "unitTenure": "M",
       "finalRate": "6.6"
@@ -67,7 +67,7 @@
       "finalRate": "6.6"
     },
     {
-      "prodCD": "438",
+      "prodCD": "704",
       "ccyCD": "704",
       "tenure": "3.0",
       "unitTenure": "Y",
