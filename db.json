@@ -8,42 +8,42 @@
       "ccyCD": "978",
       "tenure": "1.0",
       "unitTenure": "M",
-      "finalRate": "6.0"
+      "finalRate": "3.8"
     },
     {
       "prodCD": "438",
       "ccyCD": "840",
-      "tenure": "1.0",
+      "tenure": "3.0",
       "unitTenure": "M",
-      "finalRate": "6.0"
+      "finalRate": "4.0"
     },
     {
       "prodCD": "438",
       "ccyCD": "704",
-      "tenure": "1.0",
+      "tenure": "6.0",
       "unitTenure": "M",
-      "finalRate": "6.0"
+      "finalRate": "5.7"
     },
     {
       "prodCD": "438",
       "ccyCD": "704",
-      "tenure": "2.0",
+      "tenure": "9.0",
       "unitTenure": "M",
-      "finalRate": "6.0"
+      "finalRate": "5.85"
     },
     {
       "prodCD": "438",
       "ccyCD": "840",
-      "tenure": "2.0",
+      "tenure": "12.0",
       "unitTenure": "M",
-      "finalRate": "6.0"
+      "finalRate": "6.4"
     },
     {
       "prodCD": "438",
       "ccyCD": "978",
-      "tenure": "2.0",
+      "tenure": "13.0",
       "unitTenure": "M",
-      "finalRate": "6.0"
+      "finalRate": "6.5"
     },
     {
       "prodCD": "438",
@@ -55,156 +55,23 @@
     {
       "prodCD": "438",
       "ccyCD": "840",
-      "tenure": "3.0",
+      "tenure": "18.0",
       "unitTenure": "M",
-      "finalRate": "6.0"
+      "finalRate": "6.6"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "704",
+      "tenure": "2.0",
+      "unitTenure": "Y",
+      "finalRate": "6.6"
     },
     {
       "prodCD": "438",
       "ccyCD": "704",
       "tenure": "3.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "704",
-      "tenure": "4.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "840",
-      "tenure": "4.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "978",
-      "tenure": "4.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "704",
-      "tenure": "5.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "840",
-      "tenure": "5.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "978",
-      "tenure": "5.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "704",
-      "tenure": "6.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "840",
-      "tenure": "6.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "978",
-      "tenure": "6.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "704",
-      "tenure": "7.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "978",
-      "tenure": "7.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "840",
-      "tenure": "7.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "704",
-      "tenure": "8.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "978",
-      "tenure": "8.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "840",
-      "tenure": "8.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "840",
-      "tenure": "9.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "704",
-      "tenure": "9.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "978",
-      "tenure": "9.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "978",
-      "tenure": "10.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
-    },
-    {
-      "prodCD": "438",
-      "ccyCD": "704",
-      "tenure": "10.0",
-      "unitTenure": "M",
-      "finalRate": "6.0"
+      "unitTenure": "Y",
+      "finalRate": "6.6
     }
   ],
   "getListAcc": [
