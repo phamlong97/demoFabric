@@ -3,14 +3,342 @@
     { "id": 1, "legacy_ref_no": "0113200001020279", "name_tide": "", "ac_no": "1000899443", "amount":1000000000, "tenure": 6, "init_tenure": "M", "base_rate": 5.7, "book_dt": "28/08/2022", "last_with_dt": "28/02/2023"}
   ],
   "getListTenure": [
-    { "id": 1, "tenure": 1, "init_tenure": "M", "base_rate": 3.8 },
-    { "id": 2, "tenure": 3, "init_tenure": "M", "base_rate": 4.0 },
-    { "id": 3, "tenure": 6, "init_tenure": "M", "base_rate": 5.7 },
-    { "id": 4, "tenure": 9, "init_tenure": "M", "base_rate": 5.85 },
-    { "id": 5, "tenure": 12, "init_tenure": "M", "base_rate": 6.4 },
-    { "id": 6, "tenure": 13, "init_tenure": "M", "base_rate": 6.5 },
-    { "id": 7, "tenure": 18, "init_tenure": "M", "base_rate": 6.6 },
-    { "id": 8, "tenure": 2, "init_tenure": "Y", "base_rate": 6.6 }
+    {
+      "prodCD": "438",
+      "ccyCD": "978",
+      "tenure": "1.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "840",
+      "tenure": "1.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "704",
+      "tenure": "1.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "704",
+      "tenure": "2.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "840",
+      "tenure": "2.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "978",
+      "tenure": "2.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "978",
+      "tenure": "3.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "840",
+      "tenure": "3.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "704",
+      "tenure": "3.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "704",
+      "tenure": "4.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "840",
+      "tenure": "4.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "978",
+      "tenure": "4.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "704",
+      "tenure": "5.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "840",
+      "tenure": "5.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "978",
+      "tenure": "5.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "704",
+      "tenure": "6.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "840",
+      "tenure": "6.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "978",
+      "tenure": "6.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "704",
+      "tenure": "7.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "978",
+      "tenure": "7.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "840",
+      "tenure": "7.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "704",
+      "tenure": "8.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "978",
+      "tenure": "8.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "840",
+      "tenure": "8.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "840",
+      "tenure": "9.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "704",
+      "tenure": "9.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "978",
+      "tenure": "9.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "978",
+      "tenure": "10.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "704",
+      "tenure": "10.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "840",
+      "tenure": "10.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "840",
+      "tenure": "11.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "978",
+      "tenure": "11.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "704",
+      "tenure": "11.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "704",
+      "tenure": "12.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "840",
+      "tenure": "12.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "978",
+      "tenure": "12.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "840",
+      "tenure": "13.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "978",
+      "tenure": "13.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "704",
+      "tenure": "13.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "840",
+      "tenure": "18.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "704",
+      "tenure": "18.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "978",
+      "tenure": "18.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "840",
+      "tenure": "24.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "704",
+      "tenure": "24.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "978",
+      "tenure": "24.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "840",
+      "tenure": "36.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "704",
+      "tenure": "36.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    },
+    {
+      "prodCD": "438",
+      "ccyCD": "978",
+      "tenure": "36.0",
+      "unitTenure": "M",
+      "finalRate": "6.0"
+    }
   ],
   "getListAcc": [
     {"id" : 1, "ac_no": "1000899443", "amount":1000000000},
